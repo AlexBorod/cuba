@@ -486,6 +486,12 @@ display: none;
 .footer-row {
   margin-left: 0;
 }
+.slick-prev {
+  left: -10px;
+}
+.slick-next {
+  right: -10px;
+}
 }
 
 @media (max-width: 540px){
